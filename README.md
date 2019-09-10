@@ -11,7 +11,7 @@
 - Seaborn
 - Tableau
 
-Team members:
+# Team members:
 - Kunal N Gohrani 
 - Bhavna Kumari https://github.com/bhavnakumari
 - Sharika Anjum Mondal https://github.com/sharika-anjum
